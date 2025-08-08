@@ -5,6 +5,8 @@
 3.Predicting Tip Amount from Total Bill- Using Polynomial Regression Algorithm.<br>
 4.Prediction of Student Performance -Using Logisstic Regression Algorithm.<br>
 5.Classification of Iris Species-  Using K-Nearest Neighbors Algorithm.<br>
-6.Classification of Heart Attack Risk - Using SVM Algorithm.
+6.Classification of Heart Attack Risk - Using SVM Algorithm.<br>
+7.Classification of Play Golf Decision – Using Decision Tree Model.<br>
+
 
 </i>
